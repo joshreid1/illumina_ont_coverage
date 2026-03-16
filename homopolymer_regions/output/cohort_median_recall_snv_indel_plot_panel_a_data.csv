@@ -1,0 +1,7 @@
+region_type,display_label,variant_type,recall
+all_regions,All regions,SNV,0.918
+all_regions,All regions,INDEL,0.265
+non_homopolymer,Non-homopolymer,SNV,0.939
+non_homopolymer,Non-homopolymer,INDEL,0.459
+homopolymer_any,Homopolymer,SNV,0.864
+homopolymer_any,Homopolymer,INDEL,0.152

@@ -1,0 +1,13 @@
+region_type	display_label	variant_type	recall
+all_regions	All regions	SNV	0.918
+all_regions	All regions	INDEL	0.265
+non_homopolymer	Non-homopolymer	SNV	0.939
+non_homopolymer	Non-homopolymer	INDEL	0.459
+homopolymer_any	Homopolymer	SNV	0.864
+homopolymer_any	Homopolymer	INDEL	0.152
+homopolymer_4to6	4-6bp	SNV	0.924
+homopolymer_4to6	4-6bp	INDEL	0.468
+homopolymer_7to11	7-11bp	SNV	0.563
+homopolymer_7to11	7-11bp	INDEL	0.074
+homopolymer_gt11	≥12bp	SNV	0.221
+homopolymer_gt11	≥12bp	INDEL	0.002
